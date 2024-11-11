@@ -168,12 +168,10 @@ Update the job information for a specific employee's job by job `id`.
   - **Type**: Boolean
   - **Description**: `true` if the job was successfully updated, otherwise an error response
 
-  #### Example Request Body
+  #### Example Response Body
 
   ```json
-  {
-    true
-  }
+  true
   ```
 
 ---
